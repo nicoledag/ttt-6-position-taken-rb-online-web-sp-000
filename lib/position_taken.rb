@@ -10,7 +10,6 @@ elsif board[index] == "X" || "O"
   return true
 
 else nil
-  return false
 
 end
 
