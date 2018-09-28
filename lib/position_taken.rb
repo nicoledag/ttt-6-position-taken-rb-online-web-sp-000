@@ -9,7 +9,8 @@ elsif board[index] == ""
 elsif board[index] == "X" || "O"
   return true
 
-else nil
+else "nil"
+  return false
 
 end
 
