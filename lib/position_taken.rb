@@ -12,11 +12,5 @@ elsif board[index] == nil
 else board[index] == "X" || "O"
   return true
 
-
-
-end
-
-
-
-
+ end
 end
